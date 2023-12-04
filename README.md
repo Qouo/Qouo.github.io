@@ -2,7 +2,7 @@
 A page where I write things that you may or may not care about!
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
