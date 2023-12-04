@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Communities Case Studies</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        ol {
+            list-style-type: decimal;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Tech Communities Case Studies</h1>
+
+    <p>Welcome to the Tech Communities Case Studies page! Below are case studies of notable tech companies that have successfully built and nurtured thriving tech communities.</p>
+
+    <ol>
+        <li><a href="#github">GitHub</a></li>
+        <li><a href="#stackoverflow">Stack Overflow</a></li>
+        <li><a href="#docker">Docker</a></li>
+        <li><a href="#wordpress">WordPress</a></li>
+        <li><a href="#tensorflow">TensorFlow</a></li>
+        <li><a href="#unity">Unity</a></li>
+    </ol>
+
+    <h2 id="github">1. GitHub</h2>
+    <p>[A brief look at Github's Community over the years]</p>
+
+</body>
+</html>
