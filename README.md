@@ -7,7 +7,6 @@ A page where I write things that you may or may not care about!
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Diving into GitHub's Community Cookbook: How They Built a Tech Oasis</title>
 </head>
 <body>
 
