@@ -10,6 +10,25 @@ A page where I write things that you may or may not care about!
 </head>
 <body>
 
+# The Limitations of Hosting Communities Solely on Discord
+
+Discord has become a popular platform for online communities, particularly for gaming and tech enthusiasts. Its real-time chat functionality and ease of use make it an attractive option for many. However, there are significant drawbacks to relying solely on Discord for community hosting, particularly when it comes to long-term growth, searchability, and ROI.
+
+## Key Drawbacks of Discord
+
+### 1. Lack of Indexable Search
+
+One of the most significant limitations of Discord is that its content is not indexable by search engines. This means that the valuable discussions and resources shared within your community are not discoverable via Google or other search engines. As a result, the reach of your community is inherently limited, and potential new members may never find the valuable content your community produces.
+
+### 2. No SEO Benefits
+
+Without indexable search, there are no SEO benefits to hosting your community on Discord. SEO is a crucial component for growing online presence and attracting organic traffic. Platforms like Discourse, Khoros, and Higher Logic Vanilla allow for content to be indexed by search engines, thereby enhancing discoverability and driving new members to your community through organic search results.
+
+### 3. Difficult to Measure ROI
+
+Measuring ROI is a critical aspect of managing any community, especially if it's tied to business objectives. Discord's analytics capabilities are limited compared to more robust community platforms. It's challenging to track member engagement, content performance, and overall community health in a meani
+
+
   <h1>Diving into GitHub's Community Cookbook: How They Built a Tech Oasis</h1>
 
   <p>GitHub, the code-slinging playground for developers worldwide, has more than just lines of code and pull requests. It's a bustling community hub, a breeding ground for collaboration, and – dare I say – a tech oasis. But how did this platform, born in 2008, manage to cultivate such a thriving community? I, your friendly neighborhood research fiend, decided to dive in and find out.</p>
@@ -46,3 +65,5 @@ A page where I write things that you may or may not care about!
 
 </body>
 </html>
+
+
